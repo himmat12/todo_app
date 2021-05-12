@@ -109,6 +109,6 @@ class _DashboardState extends State<Dashboard> {
 }
 
 List<String> menus = [
-  'ToDos',
+  'Todos',
   'Bookmarks',
 ];
