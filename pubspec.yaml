@@ -61,6 +61,7 @@ flutter:
       fonts:
         - asset: fonts/Poppins-Regular.ttf
         - asset: fonts/Poppins-Italic.ttf
+        
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
