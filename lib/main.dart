@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
       title: "Todo App",
       theme: ThemeData(
         fontFamily: 'Poppins',
+        canvasColor: Colors.white10,
       ),
       debugShowCheckedModeBanner: false,
       home: Dashboard(),
