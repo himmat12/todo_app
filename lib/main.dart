@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: "Simple Todo",
+      title: "Todo App",
       debugShowCheckedModeBanner: false,
       home: Dashboard(),
     );

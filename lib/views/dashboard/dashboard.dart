@@ -52,7 +52,7 @@ class _DashboardState extends State<Dashboard> {
       child: Obx(
         () => Scaffold(
           appBar: AppBar(
-            title: Text('Simple ToDo App'),
+            title: Text('Todo App'),
             centerTitle: true,
             actions: [
               IconButton(

@@ -20,7 +20,7 @@ Widget drawerBuilder(BuildContext context) {
             alignment: Alignment.center,
             decoration: BoxDecoration(color: Theme.of(context).primaryColor),
             child: Text(
-              'Simple ToDo App',
+              'Todo App',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w500,
