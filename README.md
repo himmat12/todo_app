@@ -3,6 +3,20 @@
 
 a complete todo/note app build with required necessary features in dart
 
+**app features**
+- adding notes/todos
+- deleting notes/todos
+- editing notes/todos
+- bookmark notes/todos 
+- status (completed/pending) 
+- created timestamp
+- updated timestamp
+- reset/backup/export local storage - *still in development*
+- dark/light theme
+- settings & preferences - *comming soon*
+
+**screen shots**
+
 ![image](https://user-images.githubusercontent.com/48753714/124699845-57774280-df0b-11eb-959a-fcd06e452707.png)
 
 ![image](https://user-images.githubusercontent.com/48753714/124699886-69f17c00-df0b-11eb-86c1-2d5cd462f3fe.png)
